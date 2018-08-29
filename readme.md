@@ -14,4 +14,10 @@ K-Means clustering is a method of vector quantization, originally from signal pr
 ## SVM
 A Support Vector Machine (SVM) is a supervised machine learning algorithm that can be employed for both classification and regression purposes.SVMs are based on the idea of finding a hyperplane.
 
+### Procedure
+1. Data Pre-processing was done.
+2. Data was divided into train and test sets.
+3. K-Means was implemented to form clusters.
+4. SVM was used for prediction and graph was plotted of expected vs predicted values.
+5. Accuracy was calculated
 
